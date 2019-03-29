@@ -33,7 +33,6 @@ public class MainClassJDBC {
         System.out.printf("%-20s %-40s %-20s %-20s %-20s %-20s", c.getName(), c.getAdress(), c.getEmail(), c.getCcNo(), c.getCcType(), c.getDate());
         System.out.println();
 
-        //       System.out.println(c);
     }
 
     public static void showAllMerchant(List<Merchant> m) {
