@@ -1,0 +1,2 @@
+Quantity of Merchants                    Quantity of Customers                    Sum payed by customers                   Number of payments made                  Charge get by merchants                 
+5                                        5                                        1933.34                                  6                                        21.0                                    
