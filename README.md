@@ -5,3 +5,4 @@ This simple program shows how to:
   -work with database
   -CRAD functions
   -POJO classes
+  -create report and export to file
