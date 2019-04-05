@@ -3,3 +3,18 @@ MyProject.iml
 report.txt
 .idea\
 
+Payment.class
+Merchant.class
+MainClassJDBC.class
+CustomerUtils.class
+Customer.class
+MyProject\
+production\
+out\
+MainClassJDBCTest.class
+vcs.xml
+modules.xml
+misc.xml
+encodings.xml
+dataSources.xml
+dataSources.local.xml
