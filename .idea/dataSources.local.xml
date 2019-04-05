@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="User Data Source -" uuid="3d05e245-a6ae-4666-a8b2-c29a36a5e6dc">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="UNKNOWN" exact-version="0" />
+    </data-source>
+    <data-source name="CASH_MANAGEMENT@localhost" uuid="f7f040c3-a6e6-40d7-8514-b06554fad6b0">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="MYSQL" exact-version="0" />
+    </data-source>
+  </component>
+</project>
