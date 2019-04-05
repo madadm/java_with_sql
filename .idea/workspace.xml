@@ -92,7 +92,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554423074932" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554423419850" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
@@ -138,7 +138,7 @@
       <updated>1553823917469</updated>
       <workItem from="1553823918728" duration="784000" />
       <workItem from="1554393930469" duration="2845000" />
-      <workItem from="1554421636163" duration="1432000" />
+      <workItem from="1554421636163" duration="1749000" />
     </task>
     <task id="LOCAL-00001" summary="Some comments was removed">
       <created>1553824022113</created>
@@ -170,7 +170,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5061000" />
+    <option name="totallyTimeSpent" value="5378000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
